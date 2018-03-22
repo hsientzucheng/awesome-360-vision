@@ -37,8 +37,6 @@ Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision
     - Yu-Chuan Su et al., *ACCV*, 2016.
 
 ### 6DOF, 3D, SLAM, Navigation
-- [[PDF]]() [[Project]]()
-    - et al., *_*, .
 - Omnidirectional CNN for Visual Place Recognition and Navigation [[PDF]](https://arxiv.org/abs/1803.04228)
     - Tsun-Hsuan Wang et al. *arXiv*, 2018.
 - Structure-From-Motion in Spherical Video Usingthe von Mises-Fisher Distribution [[PDF]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7707455)
