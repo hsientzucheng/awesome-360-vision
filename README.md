@@ -32,9 +32,9 @@ Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision
 - Semantic-driven Generation of Hyperlapse from 360° Video [[PDF]](https://arxiv.org/pdf/1703.10798.pdf) [[Project]](http://vllab.ucmerced.edu/wlai24/360hyperlapse/)
     - Wei-Sheng Lai et al., *TVCG*, 2017.
 - Viewport-aware adaptive 360° video streaming using tiles for virtual reality [[PDF]](https://ieeexplore.ieee.org/document/8296667/)
-    - Cagri Ozcinar and Aljosa Smolic, *QoMEX*, 2018.  
-- Visual Attention in Omnidirectional Video for Virtual Reality Applications [[PDF]](https://github.com/cozcinar/omniAttention/blob/master/OmniAttention2018.pdf)
     - Cagri Ozcinar et al., *ICIP*, 2017.  
+- Visual Attention in Omnidirectional Video for Virtual Reality Applications [[PDF]](https://github.com/cozcinar/omniAttention/blob/master/OmniAttention2018.pdf) [[Project]](https://github.com/cozcinar/omniAttention/)
+    - Cagri Ozcinar and Aljosa Smolic, *QoMEX*, 2018.
 - Look around you: Saliency maps for omnidirectional images in VR applications [[PDF]](https://ieeexplore.ieee.org/document/7965634/)
     - Ana De Abreu et al., *QoMEX*, 2017.
 - Viewport-adaptive navigable 360-degree video delivery [[PDF]](http://ieeexplore.ieee.org/document/7996611/)
