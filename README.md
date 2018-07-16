@@ -33,8 +33,10 @@ Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision
     - Wei-Sheng Lai et al., *TVCG*, 2017.
 - Viewport-aware adaptive 360° video streaming using tiles for virtual reality [[PDF]](https://ieeexplore.ieee.org/document/8296667/)
     - Cagri Ozcinar et al., *ICIP*, 2017.  
+- Visual Attention in Omnidirectional Video for Virtual Reality Applications [[PDF]](https://github.com/cozcinar/omniAttention/blob/master/OmniAttention2018.pdf) [[Project]](https://github.com/cozcinar/omniAttention/)
+    - Cagri Ozcinar and Aljosa Smolic, *QoMEX*, 2018.
 - Look around you: Saliency maps for omnidirectional images in VR applications [[PDF]](https://ieeexplore.ieee.org/document/7965634/)
-    - Ana Ozcinar et al., *QoMEX*, 2017.
+    - Ana De Abreu et al., *QoMEX*, 2017.
 - Viewport-adaptive navigable 360-degree video delivery [[PDF]](http://ieeexplore.ieee.org/document/7996611/)
     - Xavier Corbillon et al., *ICC*, 2017.
 - Pano2vid: Automatic cinematography for watching 360° videos [[PDF]](http://vision.cs.utexas.edu/projects/Pano2Vid/accv2016-0327su.pdf) [[Project]](http://vision.cs.utexas.edu/projects/Pano2Vid/)
@@ -87,6 +89,7 @@ Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision
     - C. Häne et al., *IMAVIS*, 2017.
 
 ## Dataset
+- Visual Attention in Omnidirectional Video for Virtual Reality Applications [[Website]](https://github.com/cozcinar/omniAttention/)
 - synthia-dataset [[Website]](http://synthia-dataset.net/)
     - 8 RGB cameras forming a binocular 360º camera, 8 depth sensors -> RGB & Depth in 360º
     - 2018
