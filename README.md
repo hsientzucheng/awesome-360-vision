@@ -99,6 +99,12 @@ Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision
     - 360-Degree Video Head Movement Dataset, Corbillon et al., *MMSys*, 2017.
 - SUN360 [[Website]](http://people.csail.mit.edu/jxiao/SUN360/)
     - Recognizing Scene Viewpoint using Panoramic Place Representation, Xiao et al., *CVPR*, 2012.
+- 360-Degree Video Summarization [[Website]](http://vision.snu.ac.kr/projects/pfmn/)
+    - A Memory Network Approach for Story-based Temporal Summarization of 360º Videos, Lee et al., *CVPR*, 2018.
+- Wild-360 [[Website]](http://aliensunmin.github.io/project/360saliency/)
+    - Cube Padding for Weakly-Supervised Saliency Prediction in 360° Videos, Cheng et al., *CVPR*, 2018.
+- Large-Scale Gaze Tracking Dataset for dynamic immersive 360° Videos [[Website]](https://github.com/xuyanyu-shh/VR-EyeTracking)
+    - Gaze Prediction in Dynamic 360° Immersive Videos, Xu et al., *CVPR*, 2018.
 
 ## Media
 - facebook 360 [[Website]](https://facebook360.fb.com/editing-360-photos-injecting-metadata/)
